@@ -1,0 +1,6 @@
+/* 引入 ant design css */
+@import '~antd/dist/antd.css';
+
+state = {
+    size: 'large',
+};
